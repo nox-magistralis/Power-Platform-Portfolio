@@ -4,6 +4,7 @@ let
     // ==============================================
     // Purpose: Analyzes data quality and structure from Power Platform Dataflows
     // Author: Marcin Mozol
+    // Contact: marcin.mozol@pm.me
     // Date: 6-June-2025
     // Licence:  MIT License Copyright (c) 2025 Marcin Mozol
     // ==============================================
