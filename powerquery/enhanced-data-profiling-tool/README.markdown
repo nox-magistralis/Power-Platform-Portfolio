@@ -82,4 +82,4 @@ Date: June 6, 2025
 Contact: marcin.mozol@pm.me
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/nox-magistralis/Power-Platform-Portfolio/blob/powerquery/LICENSE) file for details.
