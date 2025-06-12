@@ -63,7 +63,7 @@ This repository demonstrates my skills in:
 - **Final Output**: Combines all results into a structured table with metadata and an index.
 
 ## Example Output
-[Insert screenshot of the code result here]
+![Screenshot of Power Query output](https://github.com/nox-magistralis/Power-Platform-Portfolio/blob/powerquery/powerquery/enhanced-data-profiling-tool/assets/enhanced-data-profiling-tool-result.png?raw=true)
 
 ## Customization
 - **Change Data Source**: Update the `Source` and `EntityData` steps to connect to other databases or file types.
