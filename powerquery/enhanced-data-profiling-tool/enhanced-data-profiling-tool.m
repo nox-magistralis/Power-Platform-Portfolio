@@ -5,6 +5,8 @@ let
     // Purpose: Analyzes data quality and structure from Power Platform Dataflows
     // Author: Marcin Mozol
     // Date: 6-June-2025
+    // Licence:  MIT License Copyright (c) 2025 Marcin Mozol
+    // ==============================================
     // Author Note: This tool can be easily modified to connect to other data sources:
     // - SQL Server: Replace DATA SOURCE CONNECTION section with:
     //   Source = Sql.Database("ServerName", "DatabaseName"),
